@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: 'git@github.com:dshershov/argocd.git'
     targetRevision: HEAD
-    path: clusters/dev-cluster/apps
+    path: clusters/stage/apps
     directory:
       recurse: true
   destination:
