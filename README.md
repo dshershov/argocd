@@ -8,13 +8,11 @@
 
 ──────────────────────────────────────────────────────────────────────────────────────────
 
-📦 repo 2 with apps: argocd-apps
+📦 repo with apps 2: argocd-apps
 └── 📂 apps/
     └── 📂 lib/                        # apps here
         └── 📂 simple-app/             
             ├── 📄 Chart.yaml
-            ├── 📂 values/             # default values here
-            │   └── 📄 values.yaml
-            └── 📂 templates/
-                └── 📄 custom-res.yaml # custom YAML-manifests (ConfigMap, ingresses etc)
+            │   📄 values.yaml
+            │   📄 custom-res.yaml # custom YAML-manifests (ConfigMap, ingresses etc)
 ```
