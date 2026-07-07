@@ -8,7 +8,7 @@
 
 ──────────────────────────────────────────────────────────────────────────────────────────
 
-📦 repo with apps 2: argocd-apps
+📦 repo 2 with apps: argocd-apps
 └── 📂 apps/
     └── 📂 lib/                        # apps here
         └── 📂 simple-app/             
